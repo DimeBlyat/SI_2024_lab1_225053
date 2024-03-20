@@ -1,1 +1,3 @@
-# SI_2024_lab1_225053
+# My Lab Repository
+- Dimitar Geshtakovski
+- Index: 225053
